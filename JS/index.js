@@ -1,2 +1,1 @@
-let oLastModif = new Date(document.lastModified);
- 
+document.querySelector('#LastUpdate').innerHTML = 'Last Updated: ${document.lastModified}.';
