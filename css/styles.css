@@ -31,13 +31,20 @@ header {
     grid-gap: 1em;
     align-items: center;
     padding: 20px;
-    background-color: #4281a4;    
+    background-color: #023e8a;  
+    border-radius: 25px;
 }
 ul {
     font-family: "Poppins";
   }
 footer{
     padding: 20px;
-    background-color: #4281a4; 
-    color: white;   
+    background-color: #023e8a; 
+    color: white;  
+    border-radius: 25px; 
+    text-align: center;
+}
+
+#LastUpdate {
+    color: #FFD770
 }
