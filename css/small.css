@@ -7,15 +7,20 @@ footer {
     font-family: "Poppins";
 }
   img {
-    max-width: 100%;
-    box-shadow: 5px 5px 5px #999;
+    max-width: 75%;
   }
 
 h1{
     color: white;
     text-align: center;
     padding: 10px;
+    font-size: 1.5em;
 }
+
+h2{
+  font-size: 1em;
+}
+
 h2,
 h3,
 h4,
@@ -32,7 +37,6 @@ header {
     align-items: center;
     padding: 20px;
     background-color: #023e8a;  
-    border-radius: 25px;
 }
 ul {
     font-family: "Poppins";
@@ -41,7 +45,6 @@ footer{
     padding: 20px;
     background-color: #023e8a; 
     color: white;  
-    border-radius: 25px; 
     text-align: center;
 }
 
